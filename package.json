@@ -1,12 +1,12 @@
 {
-    "name": "MeanMapsApp",
+    "name": "meanfriendsapp",
     "version": "1.0.0",
     "description": "Demo app showing the use of Google Maps in MEAN Apps",
     "main": "server.js",
     "author": "Copied from Ahmed Haque",
     "scripts": {
         "start": "node ./bin/www"
-      },
+    },
     "dependencies": {
         "express": "~4.7.2",
         "mongoose": "~4.1.0",
