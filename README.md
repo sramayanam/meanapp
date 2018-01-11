@@ -1,0 +1,2 @@
+# meanapp
+for cosmos showcase
